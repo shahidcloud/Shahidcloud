@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shahid Imran
+# 👋 Hi, I’m Shahid khan
 🎯 Aspiring Cloud Architect  
 🌩️ Currently learning AWS, Linux, and Python  
 💻 No laptop yet — but learning daily using mobile  
