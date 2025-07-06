@@ -13,7 +13,7 @@
 - [ ] Deploying projects on AWS
 
 ## 📫 How to reach me
-📧 khan2812shahid@gmail.com  
+📧 khan050282@gmail.com
 📱 9867634485 (WhatsApp only)
 
 <!--
